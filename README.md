@@ -2,6 +2,10 @@
 
 A Python-based network packet sniffer that captures and analyzes live network traffic using the Scapy library.
 
+## Example Output
+
+![Sniffer Output](sniffer-output.png)
+
 ## Features
 
 - Real-time packet capture
